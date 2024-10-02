@@ -20,8 +20,6 @@ Les utilisateurs doivent être en mesure de :
 
 - Voir les états de survol et de focus pour tous les éléments interactifs de la page.
 
-Vous voulez du soutien pour le défi ? [Rejoignez notre communauté](https://www.frontendmentor.io/community) et posez vos questions dans le canal **#help**.
-
 ## Où trouver tout ce dont vous avez besoin
 
 Votre tâche consiste à construire le projet en vous basant sur les designs dans le dossier `/design`. Vous y trouverez une version mobile et une version bureau du design.
